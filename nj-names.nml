@@ -1,0 +1,41 @@
+grf {
+    grfid:                  "BY\01\02";
+    name:                   string(STR_GRF_NAME);
+    desc:                   string(STR_GRF_DESCRIPTION);
+    url:                    string(STR_GRF_URL);
+    version:                1;
+    min_compatible_version: 0;
+}
+
+//!NAMES!//
+
+
+town_names(pre_core) {
+    { town_names(prefixes, 1) }
+    { town_names(corestubs, 1) }
+}
+town_names(core_suf) {
+    { town_names(corestubs, 1) }
+    { town_names(suffixes, 1) }
+}
+town_names(pre_core_suf) {
+    { town_names(prefixes, 1) }
+    { town_names(corestubs, 1) }
+    { town_names(suffixes, 1) }
+}
+town_names(generated) {
+    {
+        town_names(pre_core, 10),
+        town_names(core_suf, 10),
+        town_names(pre_core_suf, 1),
+    }
+}
+
+town_names {
+    styles : string(STR_STYLES);
+    {
+        town_names(municipalities, 127),
+        town_names(core, 64),
+        town_names(generated, 1),
+    }
+}
