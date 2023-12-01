@@ -1,3 +1,19 @@
+
+
+import math
+
+
+munc_names: list[str] = []
+with open("names/municipalities.txt") as municipalities:
+    munc_names = [m.strip() for m in municipalities.readlines()]
+    print("town_names(municipalities) {")
+    print("    {")
+    print(",\n".join(
+        # [f'        text("{municipality.strip()}", {math.ceil((m:=len(munc_names))/(i+m/127)) or 1})' for i, municipality in enumerate(munc_names)]))
+        [f'        text("{municipality.strip()}", {math.ceil(math.exp(-(i-1)/127+4.84))-1 or 1})' for i, municipality in enumerate(munc_names)]))
+    print("    }")
+    print("}")
+
 with open("names/prefix.txt") as prefixes:
     print("town_names(prefixes) {")
     print("    {")
@@ -26,15 +42,6 @@ with open("names/core.txt") as core:
     print("town_names(core) {")
     print("    {")
     print(",\n".join(
-        [f'        text("{core.strip()}", 1)' for core in core.readlines()]))
-    print("    }")
-    print("}")
-
-
-with open("names/municipalities.txt") as municipalities:
-    print("town_names(municipalities) {")
-    print("    {")
-    print(",\n".join(
-        [f'        text("{municipality.strip()}", 1)' for municipality in municipalities.readlines()]))
+        [f'        text("{core.strip()}", 1)' for core in core.readlines() if all(core.strip() not in name for name in munc_names)]))
     print("    }")
     print("}")

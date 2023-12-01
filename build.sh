@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 
 NGRF_DIR=/mnt/c/Users/bigyi/OneDrive/Documents/OpenTTD/newgrf/
 USAGE="usage: ./build.sh (default | install | bundle)"
