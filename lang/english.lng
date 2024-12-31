@@ -1,5 +1,10 @@
 ##grflangid 0x01
 STR_GRF_NAME        :New Jersey Names
-STR_GRF_DESCRIPTION :A set of names from New Jersey.
+STR_GRF_DESCRIPTION :A set of town names from New Jersey.
 STR_GRF_URL         :https://github.com/bigyihsuan/new-jersey-names
-STR_STYLES          :New Jersey
+
+STR_STYLES_MUNICIPAL :New Jersey (Municipal) (564)
+STR_STYLES_CDP       :New Jersey (Other named places) (1056)
+STR_STYLES_ALL_REAL  :New Jersey (All real) (1620)
+STR_STYLES_GENERATED :New Jersey (Generated)
+STR_STYLES_BOTH      :New Jersey (All real + generated) (1620+)

@@ -216,6 +216,7 @@ Cape
 Capitol
 Carlls
 Carlstadt
+Carmel
 Carmerville
 Carneys
 Carrs
@@ -465,6 +466,7 @@ Franklin
 Franklinville
 Fredon
 Free
+Freedom
 Freehold
 Freewood
 Frelinghuysen
@@ -541,6 +543,7 @@ Haledon
 Half
 Halls
 Halltown
+Halsey
 Hamburg
 Hamden
 Hamilton
@@ -734,6 +737,7 @@ Little
 Littletown
 Livingston
 Loch
+Lockwood
 Locust
 Lodi
 Logan
@@ -1109,6 +1113,7 @@ Seaview
 Seaville
 Secaucus
 Seeley
+Seigletown
 Sergeantsville
 Sewaren
 Sewell
@@ -1230,7 +1235,6 @@ Towaco
 Town
 Townsbury
 Township
-Tracy
 Tranquility
 Trenton
 Triangle

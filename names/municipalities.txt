@@ -17,7 +17,7 @@ Passaic
 East Orange
 Union City
 Franklin Township
-Middletown Township
+Middletown
 Old Bridge Township
 Gloucester Township
 North Bergen
@@ -25,14 +25,14 @@ Irvington
 Piscataway
 Vineland
 Hoboken
-Union Township
+Union
 Jackson Township
 Parsippany-Troy Hills
 Perth Amboy
 New Brunswick
 Wayne
 Plainfield
-Howell Township
+Howell
 Bloomfield
 West New York
 East Brunswick
@@ -41,7 +41,7 @@ Washington Township
 Monroe Township
 Egg Harbor Township
 South Brunswick
-Evesham Township
+Evesham
 Hackensack
 Bridgewater Township
 Sayreville
@@ -52,36 +52,36 @@ Berkeley Township
 Linden
 Hillsborough Township
 Kearny
-Marlboro Township
+Marlboro
 Teaneck
 Montclair
-Manalapan Township
+Manalapan
 Fort Lee
 Winslow Township
 Atlantic City
 Belleville
-Galloway Township
+Galloway
 Ewing Township
 Monroe Township
-Pennsauken Township
+Pennsauken
 Freehold Township
 Fair Lawn
 Orange
 Lawrence Township
 Garfield
-Deptford Township
-Willingboro Township
+Deptford
+Willingboro
 Long Branch
 Livingston
-Voorhees Township
+Voorhees
 Westfield
 Princeton
 Nutley
-East Windsor Township
+East Windsor
 Rahway
 West Windsor
 Englewood
-Mount Olive Township
+Mount Olive
 Lacey Township
 Stafford Township
 Bergenfield
@@ -93,7 +93,7 @@ Hamilton Township
 Bridgeton
 Pemberton Township
 Paramus
-Wall Township
+Wall
 Randolph
 Lodi
 Ridgewood
@@ -122,7 +122,7 @@ Lyndhurst
 Hillside
 Montville
 Vernon Township
-West Deptford Township
+West Deptford
 Secaucus
 Lower Township
 Millburn
@@ -131,16 +131,16 @@ Elmwood Park
 Moorestown
 Little Egg Harbor Township
 Pleasantville
-Jefferson Township
+Jefferson
 Middle Township
 Palisades Park
 Morristown
 Hazlet
-Maple Shade Township
+Maple Shade
 Hawthorne
 Sparta
 Harrison
-Aberdeen Township
+Aberdeen
 Tinton Falls
 Point Pleasant
 Rutherford
@@ -150,11 +150,11 @@ Washington Township
 Delran Township
 Dumont
 Hopewell Township
-Holmdel Township
+Holmdel
 Weehawken
-Springfield Township
-Denville Township
-Cinnaminson Township
+Springfield
+Denville
+Cinnaminson
 Madison
 New Milford
 Wyckoff
@@ -163,7 +163,7 @@ Franklin Township
 Readington Township
 South River
 Warren Township
-Pequannock Township
+Pequannock
 Clark
 Robbinsville Township
 Tenafly
@@ -177,7 +177,7 @@ Fairview
 Branchburg
 Ramsey
 Hammonton
-Hanover Township
+Hanover
 Middlesex
 Verona
 Hopatcong
@@ -221,7 +221,7 @@ Wanaque
 Westwood
 Ocean City
 Pompton Lakes
-East Hanover Township
+East Hanover
 Franklin Lakes
 Totowa
 West Caldwell
@@ -235,7 +235,7 @@ Pine Hill
 Somers Point
 Waterford Township
 Millstone Township
-Southampton Township
+Southampton
 Hackettstown
 Hillsdale
 Wood-Ridge
@@ -245,12 +245,12 @@ East Rutherford
 Mount Holly
 Kinnelon
 Woodbury
-Colts Neck Township
+Colts Neck
 River Vale
 Keansburg
 Burlington City
 Matawan
-Chesterfield Township
+Chesterfield
 South Amboy
 Leonia
 Washington Township
@@ -270,11 +270,11 @@ Boonton Town
 Clayton
 Pitman
 Bogota
-Pittsgrove Township
-Lopatcong Township
+Pittsgrove
+Lopatcong
 Audubon
-Carneys Point Township
-Long Hill Township
+Carneys Point
+Long Hill
 Closter
 West Long Branch
 Montvale
@@ -286,11 +286,11 @@ Runnemede
 Bedminster
 Oradell
 Spotswood
-Hardyston Township
-Plumsted Township
+Hardyston
+Plumsted
 Butler
 Byram Township
-Riverside Township
+Riverside
 North Hanover Township
 Bernardsville
 Fairfield
@@ -310,7 +310,7 @@ Rumson
 Washington Borough
 Emerson
 Green Brook Township
-Upper Freehold Township
+Upper Freehold
 Wharton
 Keyport
 Barrington
@@ -321,12 +321,12 @@ Midland Park
 Stratford
 Linwood
 Allendale
-Tabernacle Township
+Tabernacle
 North Caldwell
 Rockaway Borough
 Union Township
 Washington Township
-Shamong Township
+Shamong
 Watchung
 Carlstadt
 Prospect Park
@@ -337,12 +337,12 @@ Fair Haven
 Maurice River Township
 Paulsboro
 Lebanon Township
-Eastampton Township
+Eastampton
 Morris Plains
 Oceanport
 Little Silver
 Woodcliff Lake
-Hainesport Township
+Hainesport
 Mendham Township
 Logan Township
 Andover Township
@@ -351,7 +351,7 @@ Mount Arlington
 Belmar
 Hightstown
 Old Tappan
-Tewksbury Township
+Tewksbury
 Berlin Township
 Mullica Township
 Rochelle Park
@@ -367,7 +367,7 @@ Englewood Cliffs
 Clementon
 Allamuchy Township
 Margate City
-Frankford Township
+Frankford
 Salem
 Holland Township
 Wildwood
@@ -381,8 +381,8 @@ Spring Lake Heights
 Flemington
 South Bound Brook
 Penns Grove
-Delanco Township
-Alexandria Township
+Delanco
+Alexandria
 Point Pleasant Beach
 Northvale
 Harrington Park
@@ -390,7 +390,7 @@ Commercial Township
 Mount Ephraim
 Neptune City
 Highlands
-White Township
+White
 Delaware Township
 Buena
 Mountain Lakes
@@ -406,19 +406,19 @@ Medford Lakes
 Westville
 Ho-Ho-Kus
 Shrewsbury Borough
-Pilesgrove Township
+Pilesgrove
 Lambertville
 Riverdale
-Mine Hill Township
+Mine Hill
 Stillwater Township
 Bordentown City
 Oaklyn
 East Amwell Township
-Harding Township
+Harding
 Cranbury
 Merchantville
-Kingwood Township
-Montague Township
+Kingwood
+Montague
 Bethlehem Township
 Woodstown
 South Toms River
@@ -427,7 +427,7 @@ North Wildwood
 Tuckerton
 High Bridge
 Stanhope
-Upper Pittsgrove Township
+Upper Pittsgrove
 South Harrison Township
 Netcong
 Saddle River
@@ -435,8 +435,8 @@ Haworth
 Alloway Township
 Franklin Township
 Hamburg
-Springfield Township
-Pohatcong Township
+Springfield
+Pohatcong
 Fredon Township
 Monmouth Beach
 Long Beach Township
@@ -458,7 +458,7 @@ Cape May
 Riverton
 Swedesboro
 South Hackensack
-Liberty Township
+Liberty
 Lakehurst
 Weymouth Township
 East Newark
@@ -483,7 +483,7 @@ Woodbine
 Sea Isle City
 Sussex
 Laurel Springs
-Sandyston Township
+Sandyston
 Avon-by-the-Sea
 Ocean Gate
 Hopewell Borough
@@ -497,7 +497,7 @@ Newfield
 Alpine
 Allentown
 Eagleswood Township
-Lower Alloways Creek Township
+Lower Alloways Creek
 Lake Como
 Glen Gardner
 Chester Borough
@@ -513,7 +513,7 @@ Mannington Township
 Sea Bright
 Hampton Borough
 Seaside Park
-Winfield Township
+Winfield
 Downe Township
 Pemberton Borough
 Frenchtown
@@ -529,7 +529,7 @@ Shrewsbury Township
 Beach Haven
 West Cape May
 Califon
-Elsinboro Township
+Elsinboro
 Audubon Park
 Bay Head
 Hi-Nella

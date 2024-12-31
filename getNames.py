@@ -29,10 +29,12 @@ wiki = wikipediaapi.Wikipedia(
     user_agent, "en", extract_format=wikipediaapi.ExtractFormat.WIKI)
 
 names: list[str] = []
+cdp: list[str] = []
 for name in pages:
     page = wiki.page(name, ns=wikipediaapi.Namespace.CATEGORY)
-    names.extend(
-        wiki.page(entry).title.partition(",")[0] for entry in page.categorymembers if entry.endswith(", New Jersey"))
+    n = [wiki.page(entry).title.partition(",")[0] for entry in page.categorymembers if entry.endswith(", New Jersey")]
+    names.extend(n)
+    cdp.extend(n)
 
 url = "https://en.wikipedia.org/w/api.php?action=parse&page=List_of_municipalities_in_New_Jersey"
 headers = {"User-Agent": user_agent}
@@ -57,6 +59,14 @@ municpalities = [td.get_text().strip()
 with open("names/municipalities.txt", "w") as municpality_file:
     municpality_file.write("\n".join(municpalities))
 names.extend(municpalities)
+
+cdp = [name for name in cdp if cdp not in municpalities]
+with open("names/cdp.txt", "w") as cdp_file:
+    cdp = [name.removesuffix(" (CDP)").removesuffix(
+        " (unincorporated community)") for name in cdp]
+    cdp = list(set(cdp))
+    cdp.sort()
+    cdp_file.write("\n".join(cdp))
 
 names = [name.removesuffix(" (CDP)").removesuffix(
     " (unincorporated community)") for name in names]

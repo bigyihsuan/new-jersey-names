@@ -1,6 +1,4 @@
-Aberdeen
 Abertown
-Absecon
 Absecon Highlands
 Ackerson
 Acton
@@ -9,30 +7,20 @@ Adamston
 Adelphia
 Albion
 Aldine
-Alexandria
 Algers Mills
 Allaire
 Allamuchy
-Allamuchy Township
 Allamuchy-Panther Valley
-Allendale
-Allenhurst
 Allens Station
-Allentown
 Allenwood
 Allerton
 Alloway
-Alloway Township
 Almonesson
-Alpha
-Alpine
 Altura
 Alvater Corner
 Ampere North
 Amsterdam
 Anderson
-Andover Borough
-Andover Township
 Annandale
 Anthony
 Applegarth
@@ -42,22 +30,15 @@ Arneys Mount
 Arneytown
 Arrowhead Lake
 Asbury
-Asbury Park
 Aserdaten
 Ashland
 Atco
-Atlantic City
-Atlantic Highlands
 Atsion
 Auburn
-Audubon
-Audubon Park
 Augusta
 Aura
-Avalon
 Avenel
 Avon Park
-Avon-by-the-Sea
 Baileys Corner
 Bairdsville
 Baker Mill Pond
@@ -71,20 +52,12 @@ Barclay-Kingston
 Bargaintown
 Barley Sheaf
 Barnegat
-Barnegat Light
-Barnegat Township
 Barnsboro
-Barrington
 Bartles Corners
 Basking Ridge
-Bass River Township
 Batsto Village
-Bay Head
-Bayonne
 Bayville
-Beach Haven
 Beach Haven West
-Beachwood
 Bear Tavern
 Beattystown
 Beaverville
@@ -96,28 +69,15 @@ Belcoville
 Belford
 Belle Mead
 Belleplain
-Belleville
-Bellmawr
 Bells Crossing
 Bellview
-Belmar
-Belvidere
 Berdines Corner
 Bergen Mills
-Bergenfield
 Bergerville
-Berkeley Heights
-Berkeley Township
 Berkshire Valley
-Berlin Borough
 Berlin Heights
-Berlin Township
-Bernards Township
-Bernardsville
 Berrien City
-Bethlehem Township
 Bevans
-Beverly
 Billingsport
 Birchfield
 Birchwood Lakes
@@ -131,18 +91,9 @@ Blairstown
 Blansingburg
 Blawenburg
 Blenheim
-Bloomfield
-Bloomingdale
-Bloomsbury
-Bogota
 Bonhamtown
-Boonton Town
-Boonton Township
-Bordentown City
-Bordentown Township
 Bortons Landing
 Bougher
-Bound Brook
 Bowentown
 Bowerstown
 Bowne
@@ -150,32 +101,23 @@ Boynton Beach
 Bozuretown
 Braddocks Mill
 Bradevelt
-Bradley Beach
 Bradley Gardens
 Bradley Park
 Braeburn Heights
 Brainards
-Branchburg
-Branchville
 Brass Castle
 Breton Woods
 Briarwood East
-Brick Township
 Bridgeboro
 Bridgeport
-Bridgeton
 Bridgeville
 Bridgewater Center
-Bridgewater Township
-Brielle
-Brigantine
 Brighton
 Brindletown
 Broad Street Park
 Broadway
 Brookdale
 Brookfield
-Brooklawn
 Brookside
 Brookview
 Brookville
@@ -189,43 +131,30 @@ Bucks Mill
 Buckshutem
 Budd Lake
 Buddtown
-Buena
-Buena Vista Township
 Bullock
 Bulltown
 Bunnvale
 Burleigh
-Burlington City
 Burlington Heights
-Burlington Township
 Burrs Mill
 Bustleton
-Butler
 Butlers Place
 Buttzville
 Byram
 Byram Center
-Byram Township
-Caldwell
-Califon
 Cambridge
-Camden
 Campgaw
 Candlewood
 Canton
-Cape May
 Cape May Court House
-Cape May Point
 Capitol Hill
 Carlls Corner
-Carlstadt
 Carmel
 Carmerville
 Carneys Point
 Carrs Corner
 Carrs Tavern
 Carsons Mills
-Carteret
 Carys
 Cassville
 Cedar Beach
@@ -247,41 +176,26 @@ Charcoal Landing
 Charleston
 Charleston Springs
 Charlestown
-Chatham Borough
-Chatham Township
 Chatsworth
 Cheesequake
 Cherry Hill Mall
-Cherry Hill Township
 Cherryville
-Chesilhurst
-Chester Borough
-Chester Township
 Chesterfield
 Chestnut Ridge
 Chewalla Park
 Chews Landing
 Chrome
 Churchtown
-Cinnaminson
 Clara Barton
-Clark
 Clarks Landing
 Clarks Mills
 Clarksboro
 Clarksburg
 Clarksville
-Clayton
 Clearbrook
-Clementon
 Clermont
-Cliffside Park
 Cliffwood
 Cliffwood Beach
-Clifton
-Clinton Town
-Clinton Township
-Closter
 Cloverhill
 Clyde
 Cokesbury
@@ -289,16 +203,13 @@ Cold Spring
 Colemantown
 Coles Mills
 Collings Lakes
-Collingswood
 Cologne
 Colonia
 Colonial Lakelands
 Colonial Manor
-Colts Neck
 Columbia
 Columbus
 Comical Corner
-Commercial Township
 Concordia
 Connecticut Farms
 Convent Station
@@ -309,7 +220,6 @@ Cooper
 Coopers Corner
 Cooperstown
 Copper Hill
-Corbin City
 Cottageville
 Cottrell Corners
 Country Lake Estates
@@ -320,7 +230,6 @@ Crandon Lakes
 Cranford
 Cream Ridge
 Crescent Heights
-Cresskill
 Creston
 Crestwood Village
 Cropwell
@@ -339,24 +248,15 @@ Darts Mills
 Davisville
 Dayton
 Deacons
-Deal
 Deal Park
 Deans
 Deepwater
 Deerfield Street
-Deerfield Township
-Delanco
 Delaware
 Delaware Park
-Delaware Township
 Dellette
 Delmont
-Delran Township
-Demarest
-Dennis Township
 Dennisville
-Denville
-Deptford
 Deutzville
 Diamond Beach
 Dias Creek
@@ -366,181 +266,117 @@ Dogs Corners
 Donlontown
 Dorchester
 Dorothy
-Dover
 Dover Beaches North
 Dover Beaches South
-Downe Township
 Downer
 Dragston
 Dreahook
 Duck Island
 Dukes Bridge
-Dumont
-Dunellen
 Dunhams Corner
 Dutch Neck
 Dutchtown
 Eagle
-Eagleswood Township
 Earlys Crossing
-East Amwell Township
-East Brunswick
 East Burlington
 East Franklin
 East Freehold
-East Greenwich Township
-East Hanover
 East Keansburg
 East Millstone
-East Newark
-East Orange
 East Riverton
 East Rocky Hill
-East Rutherford
 East Spotswood
 East Trenton Heights
 East Vineland
-East Windsor
-Eastampton
-Eatontown
 Eayrestown
 Echelon
 Edgars
 Edgebrook
-Edgewater
-Edgewater Park
 Edinburg
-Edison
 Edison Oaks
-Egg Harbor City
-Egg Harbor Township
 Eilers Corner
 Elberon
 Elberon Park
 Eldridge Park
-Elizabeth
-Elk Township
 Ellisburg
 Elm
-Elmer
-Elmwood Park
-Elsinboro
 Elwood
 Ely
 Elys Corner
-Emerson
 Emleys Hill
 Encore at Monroe
-Englewood
-Englewood Cliffs
 English Creek
-Englishtown
 Erlton-Ellisburg
 Erma
-Essex Fells
-Estell Manor
 Etra
 Evans Corner
 Everett
 Everittstown
-Evesham
 Ewan
 Ewansville
 Ewing
 Ewing Park
-Ewing Township
 Ewingville
 Extonville
-Fair Haven
-Fair Lawn
 Fair Play
 Fairfield
-Fairfield Township
 Fairmount
 Fairton
 Fairview
 Fairview Knolls
-Fanwood
-Far Hills
 Farmersville
-Farmingdale
 Farrington Lake Heights
 Fellowship
 Ferdinands Mills
 Fernwood
 Ferrell
-Fieldsboro
 Fieldville
 Finderne
 Finesville
 Flagtown
 Flanders
 Flatbrookville
-Flemington
 Florence
-Florence Township
 Florence-Roebling
-Florham Park
-Folsom
 Fords
 Forked River
 Forsgate
-Fort Lee
 Fort Plains
 Fortescue
 Fostertown
 Foul Rift
-Frankford
-Franklin Borough
 Franklin Center
 Franklin Corner
 Franklin Corners
-Franklin Lakes
 Franklin Park
-Franklin Township
 Franklinville
-Fredon Township
 Free Acres
-Freehold Borough
-Freehold Township
 Freewood Acres
-Frelinghuysen Township
-Frenchtown
 Freneau
 Fresh Ponds
 Friendship
 Fries Mills
 Friesburg
 Galilee
-Galloway
 Gandys Beach
-Garfield
 Garrison Corner
-Garwood
 Gary Corner
 Georges Road
 Georgetown
 Georgia
 Germania
-Gibbsboro
 Gibbstown
 Gilford Park
 Gillette
 Gillilandtown
 Gladstone
-Glassboro
 Glasser
 Glen Cove
-Glen Gardner
-Glen Ridge
-Glen Rock
 Glendale
 Glendola
 Glendora
 Glenmoore
 Glenwood
-Gloucester City
-Gloucester Township
 Golden Triangle
 Good Intent
 Gordons Corner
@@ -553,102 +389,62 @@ Great Meadows
 Great Meadows-Vienna
 Great Notch
 Green Bank
-Green Brook Township
 Green Creek
 Green Knoll
 Green Pond
-Green Township
 Green Village
 Greendell
 Greenfields Village
 Greentree
 Greenwich
-Greenwich Township
 Grenloch
 Griggstown
 Grovers Mill
 Groveville
-Guttenberg
-Hackensack
-Hackettstown
-Haddon Heights
-Haddon Township
-Haddonfield
 Hagerville
 Haines Corner
 Hainesburg
-Hainesport
 Hainesville
 Halcyon Park
-Haledon
 Half Acre
 Halls Corner
 Halltown
 Halsey
-Hamburg
 Hamden
 Hamilton
 Hamilton Square
-Hamilton Township
-Hammonton
-Hampton Borough
 Hampton Junction
-Hampton Township
 Hancock's Bridge
-Hanover
 Harbourton
-Harding
 Hardingville
-Hardwick Township
-Hardyston
 Harlingen
 Harmony
-Harmony Township
 Harneys Corner
-Harrington Park
-Harrison
-Harrison Township
 Harrisonville
 Harrisville
 Hartford
 Harts Corner
-Harvey Cedars
-Hasbrouck Heights
 Haskell
-Haworth
-Hawthorne
 Hazelton
-Hazlet
 Headquarters
 Heath Manor
 Heathcote
 Hedding
 Heislerville
-Helmetta
 Helms Cove
 Hendrickson Corners
 Hensfoot
 Herberts
 Herbertsville
 Hewitt
-Hi-Nella
 Hibernia
 Hickory Corner
 High Bar Harbor
-High Bridge
 High Crossing
 Highland Lakes
-Highland Park
-Highlands
-Hightstown
 Hillsborough
-Hillsborough Township
-Hillsdale
-Hillside
 Hillside Terrace
 Hillwood Lakes
-Ho-Ho-Kus
-Hoboken
 Hoffman
 Hoffmans
 Holcomb Mills
@@ -656,46 +452,31 @@ Holiday City South
 Holiday City-Berkeley
 Holiday Heights
 Holland
-Holland Township
 Holly Park
-Holmdel
 Holmeson
 Homes Mills
-Hopatcong
 Hope
-Hope Township
 Hopelawn
 Hopewell
-Hopewell Borough
-Hopewell Township
 Hornerstown
-Howell
 Hunters Mill
 Hurffville
 Hutchinson
 Hutchinson Mills
 Imlaystown
-Independence Township
 Indian Mills
-Interlaken
 Iona
 Ironia
-Irvington
 Iselin
-Island Heights
 Jackson Mills
-Jackson Township
 Jacksonburg
 Jacksonville
 Jacobstown
-Jamesburg
 Jamesburg Gardens
 Jamesburg Park
 Jeffers Landing
-Jefferson
 Jefferson Park
 Jericho
-Jersey City
 Jerseyville
 Jobstown
 Johnson Place
@@ -703,42 +484,29 @@ Johnsonburg
 Jones Mill
 Juliustown
 Jutland
-Keansburg
-Kearny
 Keasbey
 Kendall Park
-Kenilworth
 Kenvil
 Kernan Corner
-Keyport
 Kingsland
 Kingston
 Kingston Estates
 Kingtown
-Kingwood
 Kinkora
-Kinnelon
 Kirkwood
 Klinesville
-Knowlton Township
 Kresson
-Lacey Township
 Lafayette Mills
-Lafayette Township
 Lahiere
-Lake Como
 Lake Hiawatha
 Lake Hopatcong
 Lake Mohawk
 Lake Rogerene
 Lake Swannanoa
 Lake Telemark
-Lakehurst
 Lakeside-Beebe Run
 Lakewood
-Lakewood Township
 Lamberton
-Lambertville
 Lamington
 Landing
 Landisville
@@ -749,19 +517,13 @@ Larrabees
 Laurel Farms
 Laurel Heights
 Laurel Lake
-Laurel Springs
 Laurelton
 Laurence Harbor
-Lavallette
-Lawnside
 Lawrence Brook Manor
 Lawrence Station
-Lawrence Township
 Lawrenceville
 Layton
 Laytons Lake
-Lebanon Borough
-Lebanon Township
 Ledgewood
 Leeds Point
 Leektown
@@ -775,76 +537,40 @@ Leisure Village West-Pine Lake Park
 Leisuretowne
 Leonardo
 Leonardville
-Leonia
 Lewisville
-Liberty
 Liberty Corner
 Lincoln
-Lincoln Park
 Lincroft
-Linden
-Lindenwold
 Linvale
-Linwood
 Little Brook
-Little Egg Harbor Township
-Little Falls
-Little Ferry
 Little Rocky Hill
-Little Silver
 Little Silver Point
 Little York
 Littletown
-Livingston
-Loch Arbour
 Lockwood
 Locust
 Locust Corner
-Lodi
-Logan Township
-Long Beach Township
-Long Branch
-Long Hill
 Long Valley
-Longport
-Lopatcong
 Lopatcong Overlook
 Louden
 Loveladies
 Low Moor
-Lower Alloways Creek
 Lower Bank
 Lower Berkshire Valley
 Lower Fairmount
 Lower Squankum
-Lower Township
 Lower Valley
-Lumberton
-Lyndhurst
 Lynn Woodoaks
 Lyons
 Macedonia
 Macopin
-Madison
 Madison Park
-Magnolia
-Mahwah
 Malaga
 Manahawkin
-Manalapan
-Manasquan
 Manasquan Park
-Manchester Township
-Mannington Township
-Mansfield Township
-Mantoloking
-Mantua Township
 Manumuskin
-Manville
 Maple Meade
 Maple Shade
-Maplewood
-Margate City
 Mariannes Corner
 Marksboro
 Marlboro
@@ -856,174 +582,114 @@ Marshallville
 Martha
 Martinsville
 Masonville
-Matawan
 Matchaponix
 Matthews
-Maurice River Township
 Mauricetown
 Maxim
 Mayetta
 Mays Landing
-Maywood
 McAfee
 McKee City
 Meadows Terrace
 Mechanicsville
 Mechlings Corner
-Medford
-Medford Lakes
-Mendham Borough
-Mendham Township
 Menlo Park
 Menlo Park Terrace
 Mercerville
 Mercerville-Hamilton Square
-Merchantville
 Merrygold
-Metuchen
 Miami Beach
 Mickleton
-Middle Township
 Middle Valley
 Middlebrook
 Middlebush
-Middlesex
 Middlesex Downs
-Middletown
 Middletown Village
 Middleville
-Midland Park
-Milford
 Millbrook
-Millburn
 Millhurst
 Millington
 Millstone
-Millstone Borough
-Millstone Township
 Milltown
 Millville
 Milmay
-Mine Hill
 Minotola
 Mizpah
 Moerls Corner
 Money Island
-Monmouth Beach
 Monmouth Heights at Freehold
 Monmouth Hills
 Monmouth Junction
 Monroe Manor
-Monroe Township
 Monroeville
-Montague
 Montana
-Montclair
 Montclair State University
-Montgomery Township
 Montrose
-Montvale
-Montville
-Moonachie
 Moore
 Moores Corner
-Moorestown
 Moorestown-Lenola
 Morganville
-Morris Plains
-Morris Township
 Morristown
 Morsemere
 Mount Airy
-Mount Arlington
-Mount Ephraim
 Mount Freedom
 Mount Hermon
-Mount Holly
 Mount Hope
 Mount Joy
-Mount Laurel
 Mount Lebanon
-Mount Olive
 Mount Pleasant
 Mount Rose
 Mount Royal
 Mount Salem
 Mount Tabor
 Mountain Lake
-Mountain Lakes
-Mountainside
 Mountainville
 Mounts Mills
 Mower
 Muirhead
 Mullica Hill
-Mullica Township
 Munion Field
 Murray Hill
 Mystic Island
-National Park
 Navesink
 Navesink Beach
 Nelsonville
-Neptune City
-Neptune Township
 Nesco
 Neshanic
 Neshanic Station
-Netcong
 New Albany
 New Bedford
 New Brooklyn
-New Brunswick
 New Canton
 New Dover
 New Durham
 New Egypt
 New Gretna
 New Hampton
-New Hanover Township
 New Lisbon
 New Market
-New Milford
 New Monmouth
-New Providence
 New Sharon
 New Vernon
 New Village
-Newark
-Newfield
 Newfoundland
 Newport
-Newton
 Newton Heights
 Newtonville
 Newtown
 Nixon
 Norma
 Normandie
-North Arlington
 North Beach Haven
-North Bergen
 North Branch
-North Brunswick
-North Caldwell
 North Cape May
 North Centerville
 North Crosswicks
-North Haledon
-North Hanover Township
 North Middletown
-North Plainfield
 North Stelton
-North Wildwood
-Northfield
-Northvale
 Norton
-Norwood
 Nottingham
 Nummytown
-Nutley
 Oak Glen
 Oak Grove
 Oak Hill
@@ -1032,28 +698,17 @@ Oak Valley
 Oakhurst
 Oakhurst Manor
 Oakland
-Oaklyn
 Oakwood Beach
 Ocean Acres
-Ocean City
-Ocean Gate
 Ocean Grove
-Ocean Township
 Ocean View
 Oceanic
-Oceanport
 Oceanville
-Ogdensburg
 Old Bridge
-Old Bridge Township
 Old Church
-Old Tappan
-Oldmans Township
 Oldwick
 Olivet
 Ong's Hat
-Oradell
-Orange
 Orchard Heights
 Osage
 Osbornes Mills
@@ -1061,82 +716,50 @@ Osbornsville
 Othello
 Outcalt
 Oxford
-Oxford Township
 Packanack Lake
 Pages Corners
 Palermo
-Palisades Park
 Palmyra
 Panther Valley
-Paramus
-Park Ridge
 Parlin
 Parsippany
-Parsippany-Troy Hills
-Passaic
-Paterson
 Patricks Corner
 Pattenburg
 Paulas Corner
 Paulina
-Paulsboro
-Peapack and Gladstone
 Pecks Corner
 Pedricktown
-Pemberton Borough
 Pemberton Heights
-Pemberton Township
-Pennington
-Penns Grove
 Penns Neck
-Pennsauken
 Pennsville
-Pennsville Township
 Penny Pot
 Penton
 Penwell
-Pequannock
 Perrineville
 Perryville
-Perth Amboy
 Petersburg
 Phalanx
 Philips Mills
-Phillipsburg
 Pierces Point
-Pilesgrove
-Pine Beach
 Pine Brook
-Pine Hill
 Pine Lake Park
 Pine Ridge at Crestwood
 Pine Tavern
 Pines Lake
 Pinewald
 Pinkneyville
-Piscataway
 Piscatawaytown
-Pitman
-Pittsgrove
 Pittstown
-Plainfield
 Plainsboro Center
-Plainsboro Township
 Pleasant Plains
 Pleasant Run
 Pleasant Valley
 Pleasantdale
-Pleasantville
 Pluckemin
-Plumsted
-Pohatcong
 Point Breeze
-Point Pleasant
-Point Pleasant Beach
 Polhemustown
 Polktown
 Pomona
-Pompton Lakes
 Pompton Plains
 Pond Run
 Porchtown
@@ -1149,7 +772,6 @@ Port Morris Landing
 Port Murray
 Port Norris
 Port Reading
-Port Republic
 Port Warren
 Port-au-peck
 Portertown
@@ -1162,7 +784,6 @@ Prallsville
 Preakness
 Presidential Lakes Estates
 Princessville
-Princeton
 Princeton Ivy East
 Princeton Junction
 Princeton Meadows
@@ -1177,23 +798,16 @@ Quaker Gardens
 Quakertown
 Quarryville
 Quinton
-Quinton Township
 Radburn
-Rahway
 Rainbow Lakes
 Ramblewood
-Ramsey
 Ramtown
 Rancocas
 Rancocas Woods
-Randolph
 Randolphville
-Raritan
 Raritan Landing
-Raritan Township
 Raven Rock
 Readingsburg
-Readington Township
 Readington Village
 Reaville
 Red Bank
@@ -1212,78 +826,43 @@ Retreat
 Richland
 Richwood
 Riddleton
-Ridgefield
-Ridgefield Park
 Ridgeway
-Ridgewood
 Riegel Ridge
 Riegelsville
 Ringoes
-Ringwood
 Rio Grande
-River Edge
 River Plaza
-River Vale
-Riverdale
-Riverside
-Riverton
 Roadstown
 Robbinsville Center
-Robbinsville Township
 Robertsville
 Robinvale
-Rochelle Park
-Rockaway Borough
-Rockaway Township
 Rockefellows Mills
-Rockleigh
 Rocktown
-Rocky Hill
 Roebling
-Roosevelt
 Rosedale
-Roseland
-Roselle
-Roselle Park
 Rosemont
 Rosenhayn
 Ross Corner
 Rossmoor
 Rowland's Mills
-Roxbury
-Rumson
-Runnemede
 Russia
 Rustic
 Rutgers University-Busch Campus
 Rutgers University-Livingston Campus
-Rutherford
-Saddle Brook
-Saddle River
-Salem
 Samptown
 Sand Brook
 Sandy Ridge
-Sandyston
 Sayerwood South
-Sayreville
 Schalks
 Schooley's Mountain
 Scobeyville
-Scotch Plains
 Scotts Corner
 Scudders Falls
 Sea Breeze
-Sea Bright
-Sea Girt
-Sea Isle City
 Seabrook
 Seabrook Farms
-Seaside Heights
-Seaside Park
 Seaview Harbor
 Seaville
-Secaucus
 Seeley
 Seigletown
 Sergeantsville
@@ -1291,21 +870,16 @@ Sewaren
 Sewell
 Shabakunk Hills
 Shacks Corner
-Shamong
 Shark River Hills
 Sharon
 Shaytown
 Shell Pile
 Sheppards Mill
-Shiloh
-Ship Bottom
 Shippenport
 Shongum
 Shore Road Estates
 Shore View
 Short Hills
-Shrewsbury Borough
-Shrewsbury Township
 Sicklerville
 Sidney
 Silver Lake
@@ -1321,85 +895,51 @@ Smithburg
 Smithville
 Snydertown
 Society Hill
-Somerdale
-Somers Point
 Somerset
-Somerville
 Sooy Place
-South Amboy
-South Bound Brook
 South Branch
-South Brunswick
 South Dennis
-South Hackensack
-South Harrison Township
 South Old Bridge
-South Orange
-South Plainfield
-South River
 South Seaville
-South Toms River
-Southampton
-Sparta
 Speedwell
-Spotswood
 Spotswood Manor
-Spring Lake
-Spring Lake Heights
 Spring Mills
 Springdale
 Springfield
 Springtown
 Spruce Run
 Squankum
-Stafford Township
-Stanhope
 Stanton
 Stelton
 Stephenville
 Sterling Woods
 Stewartsville
 Stillwater
-Stillwater Township
 Stirling
 Stockholm
-Stockton
-Stone Harbor
 Stone Mill
 Stone Tavern
 Stonebridge
 Stoutsburg
-Stow Creek Township
-Stratford
 Strathmere
 Strathmore
 Sturwood Hamlet
 Succasunna
 Succasunna-Kenvil
-Summit
 Sunnyside
 Sunset Lake
-Surf City
-Sussex
 Sutton
 Swainton
 Swartswood
-Swedesboro
 Sweetman
 Sweetwater
 Swinesburg
 Sykesville
-Tabernacle
 Tanners Corner
 Tansboro
-Tavistock
 Taylors Mills
-Teaneck
 Ten Mile Run
-Tenafly
 Tennent
-Teterboro
-Tewksbury
 Texas
 Thachers Hill
 The Hills
@@ -1408,130 +948,82 @@ Thorofare
 Three Bridges
 Tiltons Corner
 Timbuctoo
-Tinton Falls
 Titusville
 Toms River
-Totowa
 Towaco
 Town Bank
 Town Brook
 Townsbury
 Tranquility
-Trenton
 Trenton Gardens
 Troy Hills
 Tuckahoe
-Tuckerton
 Tumble Falls
 Turnersville
 Twin Rivers
 Union
-Union Beach
-Union City
 Union Hill
-Union Township
 Union Valley
-Upper Deerfield Township
-Upper Freehold
 Upper Greenwood Lake
 Upper Montclair
 Upper Montvale
-Upper Pittsgrove
 Upper Pohatcong
-Upper Saddle River
 Upper Stewartsville
-Upper Township
 Valley
 Van Syckel
 Vanderburg
 Vanlieu Corners
 Vauxhall
-Ventnor City
 Vernon Center
-Vernon Township
 Vernon Valley
 Vernoy
-Verona
-Victory Gardens
 Victory Lakes
 Vienna
 Villas
 Vincentown
-Vineland
 Vista Center
 Voorhees
 Wading River
-Waldwick
-Wall
-Wallington
 Wallpack Center
 Walnford
-Walpack Township
 Wanamassa
-Wanaque
-Wantage Township
 Waretown
 Warren Grove
-Warren Township
 Warrington
-Washington Borough
 Washington Crossing
 Washington Heights
-Washington Township
 Washington Valley
-Watchung
-Waterford Township
 Waterford Works
 Waterloo
 Watsessing
-Wayne
 Wayside
-Weehawken
 Welchville
-Wenonah
 Wertheins Corner
 Wertsville
 West Allenhurst
-West Amwell Township
 West Atco
 West Belmar
 West Berlin
-West Caldwell
-West Cape May
 West Carteret
 West Creek
 West Deal
-West Deptford
 West End
 West Englewood
 West Farms
 West Freehold
 West Grove
 West Keansburg
-West Long Branch
-West Milford
-West New York
-West Orange
 West Park
 West Portal
 West Shrewsbury
 West Trenton
 West Tuckerton
-West Wildwood
-West Windsor
-Westampton
-Westfield
 Westmont
 Weston
 Westons Mills
-Westville
-Westwood
-Weymouth Township
-Wharton
 Wheatland
 Whig Lane
 Whippany
-White
 White Horse
 White Meadow Lake
 Whitehall
@@ -1545,33 +1037,15 @@ Whittier Oaks
 Whittingham
 Wickatunk
 Wilburtha
-Wildwood
-Wildwood Crest
 Wileys Corner
 Williamstown
-Willingboro
 Windsor
-Winfield
-Winslow Township
 Wolfert
-Wood-Ridge
-Woodbine
 Woodbridge
 Woodbridge Oaks
-Woodbridge Township
-Woodbury
-Woodbury Heights
-Woodcliff Lake
 Woodglen
-Woodland Park
-Woodland Township
-Woodlynne
-Woodstown
 Woodsville
-Woolwich Township
 Wortendyke
-Wrightstown
-Wyckoff
 Wyckoff Mills
 Wyckoffs Mills
 Yardville

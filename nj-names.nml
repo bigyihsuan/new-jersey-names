@@ -3,7 +3,7 @@ grf {
     name:                   string(STR_GRF_NAME);
     desc:                   string(STR_GRF_DESCRIPTION);
     url:                    string(STR_GRF_URL);
-    version:                1;
+    version:                2;
     min_compatible_version: 0;
 }
 
@@ -31,10 +31,38 @@ town_names(generated) {
 }
 
 town_names {
-    styles : string(STR_STYLES);
+    styles : string(STR_STYLES_MUNICIPAL);
     {
-        town_names(municipalities, 127),
-        town_names(core, 2),
+        town_names(municipalities, 1),
+    }
+}
+town_names {
+    styles : string(STR_STYLES_CDP);
+    {
+        town_names(cdp, 1),
+    }
+}
+town_names {
+    styles : string(STR_STYLES_ALL_REAL);
+    {
+        town_names(municipalities, 1),
+        town_names(cdp, 1),
+    }
+}
+town_names {
+    styles : string(STR_STYLES_GENERATED);
+    {
+        town_names(core, 1),
+        town_names(generated, 1),
+    }
+}
+
+town_names {
+    styles : string(STR_STYLES_BOTH);
+    {
+        town_names(municipalities, 1),
+        town_names(cdp, 1),
+        town_names(core, 1),
         town_names(generated, 1),
     }
 }

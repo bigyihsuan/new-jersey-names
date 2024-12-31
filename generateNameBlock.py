@@ -1,9 +1,5 @@
-
-
 import math
 
-
-munc_names: list[str] = []
 with open("names/municipalities.txt") as municipalities:
     munc_names = [m.strip() for m in municipalities.readlines()]
     print("town_names(municipalities) {")
@@ -11,6 +7,15 @@ with open("names/municipalities.txt") as municipalities:
     print(",\n".join(
         # [f'        text("{municipality.strip()}", {math.ceil((m:=len(munc_names))/(i+m/127)) or 1})' for i, municipality in enumerate(munc_names)]))
         [f'        text("{municipality.strip()}", {math.ceil(math.exp(-(i-1)/127+4.84))-1 or 1})' for i, municipality in enumerate(munc_names)]))
+    print("    }")
+    print("}")
+
+with open("names/cdp.txt") as cdp:
+    cdp_names = [m.strip() for m in cdp.readlines()]
+    print("town_names(cdp) {")
+    print("    {")
+    print(",\n".join(
+        [f'        text("{cdp.strip()}", {1})' for i, cdp in enumerate(cdp_names)]))
     print("    }")
     print("}")
 
